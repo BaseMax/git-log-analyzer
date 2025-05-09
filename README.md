@@ -38,6 +38,14 @@ python main.py <path_to_repo>
 
 This will analyze the Git repository's commit log, calculate statistics, generate visualizations, and create summary reports.
 
+### Testing
+
+```bash
+C:\Users\ALI\Projects\git-log-analyzer>python main.py .
+Matplotlib is building the font cache; this may take a moment.
+Git Log Analysis Complete!
+```
+
 ### Output
 
 The following files will be generated:
