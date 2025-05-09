@@ -53,7 +53,7 @@ The following files will be generated:
 - **Commit Activity Plot:** A line plot of commit frequency over time, saved as visualizations/commit_activity.png.
 - **Contributor Stats Plot:** A bar chart of commits per contributor, saved as visualizations/contributor_stats.png.
 - **Summary Report:** An HTML file containing the summary of commit activity, saved as reports/summary_report.html.
-- Contributor Stats Report:** A text file summarizing contributor statistics, saved as reports/stats_report.txt.
+- **Contributor Stats Report:** A text file summarizing contributor statistics, saved as reports/stats_report.txt.
 
 ### License
 
